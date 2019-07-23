@@ -1,6 +1,21 @@
+/*
+    Colors used:
+    Seashell: #FDF0ED   -- text
+    Gunmetal: #2E303E   -- background
+    
+    Buff: #F3DE8A
+    Amazonite: #00BFB2
+    Terra Cotta: #E26D5A
+*/
+
+/* Start general body stylings */
 body {
     margin: 0;
     padding: 0;
     background-color: #2E303E;
     color: #FDF0ED; 
+}
+
+.content a {
+    color: #FDF0ED;
 }
