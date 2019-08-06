@@ -13,9 +13,12 @@ body {
     margin: 0;
     padding: 0;
     background-color: #2E303E;
-    color: #FDF0ED; 
+    /* color: #FDF0ED;  */
+    color: snow; 
 }
 
 .content a {
-    color: #FDF0ED;
+    /* color: #FDF0ED; */
+    color: snow; 
+
 }
