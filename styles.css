@@ -17,7 +17,11 @@ body {
     color: snow; 
 }
 
-.content a {
+nav a {
+    color: snow; 
+}
+
+.main a {
     /* color: #FDF0ED; */
     color: snow; 
 
