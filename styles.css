@@ -8,7 +8,7 @@
     Terra Cotta: #E26D5A
 */
 
-/* Start general body stylings */
+/* START GENERAL BODY SETTINGS */
 body {
     margin: 0;
     padding: 0;
@@ -26,3 +26,26 @@ nav a {
     color: snow; 
 
 }
+/* END GENERAL BODY STYLINGS */
+
+
+/* START HEADER STYLINGS */
+header { 
+    border-bottom: solid 1px #00bfb2; 
+    margin-bottom: 10px; 
+}
+
+nav {
+    /* position: relative; */
+    /* float: right;  */
+    right: -10px; 
+}
+
+nav li {
+    padding: 4px; 
+}
+
+nav a {
+    text-decoration: none; 
+}
+/* END HEADER STYLINGS */
