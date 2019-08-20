@@ -37,14 +37,13 @@ header {
     position: fixed; 
     z-index: 2;
     background-color: inherit; 
-    box-shadow: 0 4px 15px 2px rgb(28, 29, 37); 
+    box-shadow: 0 4px 15px 3px rgb(28, 29, 37); 
+    padding-bottom: 4px;
 }
 
 nav {
     padding: 6px 10px 0 0;  
-}
-
-nav ul {
+    display: block;
     position: relative;
     float: right; 
 }
@@ -57,6 +56,12 @@ nav li {
 
 nav a {
     text-decoration: none; 
+}
+
+#logo {
+    display: inline-block;
+    /* margin: 10px 0 0 10px; */
+    margin-left: 10px; 
 }
 /* END HEADER STYLINGS */
 
